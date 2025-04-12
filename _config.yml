@@ -67,11 +67,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:"https://github.com/mocozi"
+      url: "https://github.com/mocozi"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -319,8 +319,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       show_date: true # 포스트 작성일 표시 
       date_format: "%Y-%m-%d" # 작성일 표시 형식
+    sidebar:                  # 추가한 부분
+      nav: "sidebar-category" # 추가한 부분
+
