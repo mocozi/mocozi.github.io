@@ -2,6 +2,9 @@
 title: "기타"
 layout: archive
 permalink: /etc
+author_profile: true
+sidebar:
+  nav: "sidebar-category"
 ---
 
 

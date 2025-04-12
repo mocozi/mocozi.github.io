@@ -1,7 +1,10 @@
 ---
 title: "블로그"
 layout: archive
-permalink: /blog
+permalink: /blog/
+author_profile: true
+sidebar:
+  nav: "sidebar-category"
 ---
 
 

@@ -2,6 +2,9 @@
 title: "낙서장"
 layout: archive
 permalink: /doodle
+author_profile: true
+sidebar:
+  nav: "sidebar-category"
 ---
 
 
