@@ -13,6 +13,9 @@ date: 2025-04-09 #글을 처음 작성한 날짜. yyyy-mm-dd 형식으로 작성
 last_modified_at: 2024-04-09  #이 글을 수정한 날짜.
 comments: true # 댓글 기능을 추가할 경우
 
+author_profile: false
+sidebar:
+  nav: "sidebar-category"
 ---
 
 # 1 테스트
