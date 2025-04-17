@@ -262,6 +262,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-admin
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -327,3 +328,11 @@ defaults:
     sidebar:                  # 추가한 부분
       nav: "sidebar-category" # 추가한 부분
 
+jekyll_admin:
+  hidden_links:
+  #  - posts
+  #  - pages
+  #  - staticfiles
+  #  - datafiles
+  #  - configuration
+  homepage: "posts"
