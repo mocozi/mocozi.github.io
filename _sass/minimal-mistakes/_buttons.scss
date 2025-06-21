@@ -96,3 +96,15 @@
     font-size: $type-size-7;
   }
 }
+
+.btn--instagram {
+  background-color: #ed6d8f; /* 예시: 핫핑크 */
+  // color: #fff;              /* 예시: 검정색 텍스트 */
+  border-color: #ed6d8f;
+  &:hover {
+    background-color: darken(#ed6d8f, 10%) !important;
+  }
+}
+.fa-instagram {
+  color: #fff;  /* 예시: 흰색 텍스트 */
+}
