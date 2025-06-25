@@ -5,8 +5,8 @@ excerpt: "카테고리를 만들어서 운영해보자자 "
 tags:
 #  - [블로그, 지킬, 깃허브, 댓글] 
 
-  categories:
-  - etc 
+categories:
+ - etc 
 
 toc: true #Table of Contents. 포스트의 헤더들만 보여주는 목차를 사용할 것인지의 여부. ture 로 해주면 포스트의 목차가 보이게 된다.
 toc_sticky: true #true로 해주면 목차가 스크롤을 따라 움직이게 된다!

@@ -11,6 +11,7 @@ last_modified_at: 2025-06-25
 comments: true
 author_profile: 
 sidebar:
+nav: "sidebar-category"
 ---
 ## Github Action을 이용해 자동화를 만든다.
 
