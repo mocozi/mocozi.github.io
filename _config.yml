@@ -19,9 +19,9 @@ locale                   : "ko-KR" # 일어: ja-JP, 영어: en-US
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "MOCOZI" #블로그의 이름을 설정하는 옵션이예요.
 title-separator          : "|" # 타이틀을 나누어서 표시하는 방식 (예: Sample Page | MOCOZI blog)
-subtitle                 : "빌어먹을 블로그 몇번째 시도하는거야 대체!!"
-name                     : "mocozi"
-description              : "이곳은 모꼬지의 블로그입니다." #블로그 설명을 설정한답니다. 검색 결과에서 주로 노출돼요.
+subtitle                 : "몰라도 인생에 아무런 영향이 없는 이야기들을 늘어놓는 곳"
+name                     : "meboso"
+description              : "이곳은 모꼬지 블로그입니다." #블로그 설명을 설정한답니다. 검색 결과에서 주로 노출돼요.
 url                      : "https://mocozi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog" 블로그 링크를 입력하면 됩니다.
 repository               : "mocozi/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author: #블로그 작성자 정보를 입력해요.
-  name     : "MOCOZI"
+  name     : "meboso"
   avatar   : "/assets/img/profile_mocozi.png"
-  bio      : "이곳은 바이오 / 냉큼.."
+  bio      : "Product Manager / Tagger"
   location : "Tokyo"
   email    : "mocozi@hotmail.com"
   links:
