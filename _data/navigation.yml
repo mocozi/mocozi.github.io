@@ -1,9 +1,7 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mocozi.github.io/mocozi/about/
+    url: /about/
   # - title: "블로그"
   #   url: /blog/
   # - title: "낙서장"
@@ -11,18 +9,8 @@ main:
   # - title: "기타"
   #   url: /etc/
 
-
 sidebar-category:
   - title: "카테고리"
-    children:
-      - title: "블로그"
-        url: "/blog/"
-      - title: "낙서장"
-        url:  "/doodle/"
-      - title: "기타"
-        url:  "/etc/"
-
-  - title: "카테고리2"
     children:
       - title: "블로그"
         url: "/blog/"
