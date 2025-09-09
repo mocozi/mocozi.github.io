@@ -1,7 +1,8 @@
 ---
 title: 옵시디언으로 작성하고 깃허브 블로그에 자동 포스팅
 excerpt: 깃허브 블로그에 글을 올리는 작업이 귀찮다. 옵시디언에서 바로 포스팅하는 방법을 알아보자.
-tags: 
+tags:
+  - 개발
 categories:
   - blog
 toc: true
@@ -11,7 +12,7 @@ last_modified_at: 2025-06-25
 comments: true
 author_profile: 
 sidebar:
- nav: "sidebar-category"
+  nav: sidebar-category
 ---
 ---
 title: 옵시디언으로 작성하고 깃허브 블로그에 자동 포스팅
